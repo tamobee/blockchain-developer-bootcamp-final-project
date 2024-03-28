@@ -1,4 +1,4 @@
-# Blockchain Developer Bootcamp Final Project
+# Blockchain Project Ideas
 ---
 ## Idea #1: Marketplace for Vintage Cars
 
